@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/draft2/static/css/main.720c3669.chunk.css",
-    "main.js": "/draft2/static/js/main.dfd5bcbf.chunk.js",
-    "main.js.map": "/draft2/static/js/main.dfd5bcbf.chunk.js.map",
+    "main.js": "/draft2/static/js/main.106c49d5.chunk.js",
+    "main.js.map": "/draft2/static/js/main.106c49d5.chunk.js.map",
     "runtime-main.js": "/draft2/static/js/runtime-main.626a64d2.js",
     "runtime-main.js.map": "/draft2/static/js/runtime-main.626a64d2.js.map",
     "static/js/2.91f2a697.chunk.js": "/draft2/static/js/2.91f2a697.chunk.js",
@@ -24,9 +24,10 @@
     "static/media/api_flow_revised.2ee68044.PNG": "/draft2/static/media/api_flow_revised.2ee68044.PNG",
     "static/media/app_auth_flow.35eb1829.jpg": "/draft2/static/media/app_auth_flow.35eb1829.jpg",
     "static/media/data_types.2ffbb00d.png": "/draft2/static/media/data_types.2ffbb00d.png",
+    "static/media/dbc.a8e045d3.jpg": "/draft2/static/media/dbc.a8e045d3.jpg",
     "static/media/networking_layers.f0097177.jpg": "/draft2/static/media/networking_layers.f0097177.jpg",
     "static/media/nodes_journey.7bf35734.png": "/draft2/static/media/nodes_journey.7bf35734.png",
-    "static/media/proof_of_resource.e6690dbe.jpg": "/draft2/static/media/proof_of_resource.e6690dbe.jpg",
+    "static/media/proof_of_resource.9d566729.jpg": "/draft2/static/media/proof_of_resource.9d566729.jpg",
     "static/media/resources_and_currency.048229c9.jpg": "/draft2/static/media/resources_and_currency.048229c9.jpg",
     "static/media/stack.4ed8d5de.png": "/draft2/static/media/stack.4ed8d5de.png",
     "static/media/supermajority.5eb8aa40.png": "/draft2/static/media/supermajority.5eb8aa40.png",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.626a64d2.js",
     "static/js/2.91f2a697.chunk.js",
     "static/css/main.720c3669.chunk.css",
-    "static/js/main.dfd5bcbf.chunk.js"
+    "static/js/main.106c49d5.chunk.js"
   ]
 }
